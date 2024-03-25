@@ -7,10 +7,10 @@ velog - 프엔 관련 개념 4개 공부하기
 MovieIt 배포하기
 
 ## 💪🏻 오늘 한 일
-[X] 영화프로젝트 기능 수정
-[X] 정처기실기 7과목 (4), 1과목 (7) 강의 듣기
-[X] 스터디 - 코딩테스트 풀기 
-[X] [TIL](https://velog.io/@oaksusu/TIL-%EC%BD%94%ED%85%8C%EC%97%90%EC%84%9C-%EC%9E%90%EC%A3%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8) 1개 
+[x] 영화프로젝트 기능 수정 
+[x] 정처기실기 7과목 (4), 1과목 (7) 강의 듣기
+[x] 스터디 - 코딩테스트 풀기 
+[x] [TIL](https://velog.io/@oaksusu/TIL-%EC%BD%94%ED%85%8C%EC%97%90%EC%84%9C-%EC%9E%90%EC%A3%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8) 1개 
 
 ## 🫵🏻 내일 할 일
 정처기 특강 (1) 강의 듣기
