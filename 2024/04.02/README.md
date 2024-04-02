@@ -18,7 +18,7 @@ MovieIt 수정 마무리하기
 
 - [x] TIL - [해시](https://velog.io/@oaksusu/TIL-%ED%95%B4%EC%8B%9C)
 
-- [x] 영화 프로젝트 수정사항 반영 - 영화,극장,시간 변경시 잔여좌석수 업데이트되게, 개발중일때 백엔드배포주소 사용할수있게 환경변수 설정 추가
+- [x] 영화 프로젝트 수정사항 반영 - [영화,극장,시간 변경시 잔여좌석수 업데이트되게](https://github.com/frontend-study-project/movieIT_frontend/commit/9f4dea3282a3417c2f5c983c2705fb1a0c11fef4), [개발중일때 백엔드배포주소 사용할수있게 환경변수 설정 추가](https://github.com/frontend-study-project/movieIT_frontend/commit/df43e16543aa3897c611d8bc1e2ade3185b25886)
 
 
 ## 🫵🏻 내일 할 일
