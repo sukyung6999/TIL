@@ -15,7 +15,7 @@ react 주제별 학습 시작하기
 
 - [x] 정처기 1과목 (18)
 
-- [x] TIL - [개발 환경 관련 용어](https://velog.io/@oaksusu/TIL-CRA)
+- [x] TIL - [개발 환경 관련 용어](https://velog.io/@oaksusu/TIL-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EA%B4%80%EB%A0%A8%EC%9A%A9%EC%96%B4)
 
 - [x] 영화 프로젝트 - 시간 선택 코드 다시 분석 후 [오류 수정](https://github.com/frontend-study-project/movieIT_frontend/pull/22/commits/75ea7889c1155f08605e69f43732a148d319c5b4) / 프로젝트 리팩토링 완료
 
