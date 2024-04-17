@@ -25,7 +25,7 @@ react 주제별 학습 시작하기
 
 - 정처기 프로그램 특강 (9)
 
-- TIL - sprint, epic
+- TIL - next
 
 - healingSeoul 레이아웃 짜기
 
