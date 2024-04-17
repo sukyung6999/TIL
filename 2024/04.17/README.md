@@ -27,7 +27,7 @@ react 주제별 학습 시작하기
 
 - TIL - next
 
-- healingSeoul 레이아웃 짜기
+- healingSeoul 명세서 마무리하기
 
 
 ## 👀 간단 회고
