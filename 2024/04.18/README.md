@@ -14,7 +14,7 @@ react 주제별 학습 시작하기
 
 - [x] 정처기 2과목 (1)
 
-- [x] TIL - nextjs 공부 진행중
+- [x] TIL - [nextjs](https://velog.io/@oaksusu/TIL-Nextjs) 공부 진행중
 
 - [x] healingSeoul 기능명세서 작성하기
 
