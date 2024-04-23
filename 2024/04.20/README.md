@@ -1,4 +1,4 @@
-# 📅 2024/04/18/목
+# 📅 2024/04/20/토
 
 ## 🚀 주간 목표
 
@@ -16,7 +16,7 @@ react 주제별 학습 시작하기
 
 - [x] TIL - typescript 공부하기
 
-- [x] 지금까지 작성한 TIL 복습, 부족한 부분 공부 (toISOString, useLocation, api, fetch, async/await, try catch, yeild, react-query)
+- [x] 지금까지 작성한 TIL 복습, 부족한 부분 공부 (toISOString, useLocation, api, fetch, async/await, try catch, yeild, react-query, axios)
 
 
 ## 🫵🏻 담주 할 일
