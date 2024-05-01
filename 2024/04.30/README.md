@@ -21,6 +21,8 @@
 - [ ] 프론트 개념 공부하기
 
 - [x] TIL 개념 다시 공부 완료하기
+    + JSON.stringify : 자바스크립트 객체를 JSON 문자열로 변환
+    + parse() : JSON 문자열을 자바스크립트 객체로 변환
 
 - [x] 로그인 기능 프로토타입 - react-hook-form 적용시켜보기 [8207959](https://github.com/sukyung6999/practice-react/commit/820795975837596beb366c3a2a3a76ac99026f69)
 
