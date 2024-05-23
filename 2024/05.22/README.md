@@ -10,7 +10,7 @@
 
 - [x] 정처기 3과목 (2), (3)
 
-- [x] Fend - 프로필 이미지 업로드 하는 컴포넌트 만드는 중
+- [x] Fend - [프로필 이미지 업로드 하는 컴포넌트 만드는 중](https://github.com/sukyung6999/practice-react/commit/3c3740aac719136c0cc62f6592aef481408a9e43)
 
 - [x] TIL - 파일 업로드 input 만드는법 정리 중
 
