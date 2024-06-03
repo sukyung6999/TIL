@@ -11,7 +11,7 @@ Pravel 프로토타입 만들어보기
 
 - [x] 정처기 4과목 (1), (2)
 
-- [x] Pravel : emotion 에러 해결
+- [x] Pravel : emotion 에러
 
 - [x] TIL : emotion 사용법 알아보기
 
