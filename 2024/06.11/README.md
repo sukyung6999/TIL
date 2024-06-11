@@ -17,7 +17,7 @@ Pravel 2주차 스프린트 수행하기
 - [ ] Pravel 
   ㄴ [장소 탐색하기 모달창으로 변경하기]()
 
-- [x] TIL - nextjs routing 공부하기
+- [x] TIL - [nextjs routing 공부하기](https://mycodings.fly.dev/blog/2024-01-13-nextjs-14-tutorial-1-all-about-routing#Routing)
 
 ## 🫵🏻 내일 할 일
 
