@@ -1,4 +1,4 @@
-# 📅 2024/06/24/월
+# 📅 2024/06/25/화
 
 ## 🚀 주간 목표
 
@@ -12,9 +12,9 @@ NextJS 유데미 강의 완강하기
 
 - [ ] 정처기 특강
 
-- [x] [NextJS 인강 듣고 정리 - Day05](https://cottony-slope-8c1.notion.site/Day05-d8ea21b841b447a99edab19324e40da6?pvs=4)
+- [x] [NextJS 인강 듣고 정리 - Day06](https://cottony-slope-8c1.notion.site/Day06-69886911fa0e46f882fc7823090a2565?pvs=4)
 
-- [x] frontend mentor - url 과제 셋팅 및 마크업 헤더 작업
+- [x] frontend mentor - 마크업
 
 ## 🫵🏻 내일 할 일
 
