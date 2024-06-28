@@ -14,6 +14,8 @@ NextJS 유데미 강의 완강하기
 
 - [x] frontend mentor - [API 에러 해결](https://github.com/frontend-study-project/FrontendMentor/commit/d8b7ab28c96664bd0d79fe2f01248d495da5762a)
 
+- [x] velog - frontend mentor 에러 일지 작성
+
 ## 🫵🏻 내일 할 일
 
 - 유데미 알고리즘 인강
