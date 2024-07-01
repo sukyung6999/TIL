@@ -1,4 +1,4 @@
-# 📅 2024/06/28/금
+# 📅 2024/06/29/토
 
 ## 🚀 주간 목표
 
@@ -10,9 +10,9 @@ NextJS 유데미 강의 완강하기
 
 - [ ] 유데미 알고리즘 인강 - 재귀함수 문제 풀기
 
-- [x] 정처기 계산식 특강 (12) ~ (18)
+- [x] 정처기 계산식 특강 (19) ~ (21) / 데이터베이스 특강 (1) ~ (3)
 
-- [x] frontend mentor - [API 에러 해결](https://github.com/frontend-study-project/FrontendMentor/commit/d8b7ab28c96664bd0d79fe2f01248d495da5762a)
+- [x] frontend mentor - [shorten link 리스트 보여주기, copy 기능 추가](https://github.com/frontend-study-project/FrontendMentor/commit/d8b7ab28c96664bd0d79fe2f01248d495da5762a)
 
 - [x] velog - frontend mentor 에러 일지 작성
 

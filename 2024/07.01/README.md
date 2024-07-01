@@ -1,4 +1,4 @@
-# 📅 2024/06/28/금
+# 📅 2024/07/01/일
 
 ## 🚀 주간 목표
 
@@ -10,11 +10,9 @@ NextJS 유데미 강의 완강하기
 
 - [ ] 유데미 알고리즘 인강 - 재귀함수 문제 풀기
 
-- [x] 정처기 계산식 특강 (12) ~ (18)
+- [x] 정처기 계산식 특강 / 데이터베이스 특강 완강
 
-- [x] frontend mentor - [API 에러 해결](https://github.com/frontend-study-project/FrontendMentor/commit/d8b7ab28c96664bd0d79fe2f01248d495da5762a)
-
-- [x] velog - frontend mentor 에러 일지 작성
+- [x] frontend mentor - [복사하기 버튼, active 스타일, svgr, color theme, 반응형](https://github.com/frontend-study-project/FrontendMentor/commit/55ed235d5a838aa5246687175005c54d019ea831)
 
 ## 🫵🏻 내일 할 일
 
@@ -40,5 +38,9 @@ NextJS 유데미 강의 완강하기
   ㄴ 새로고침하면 어떻게 동작할까
 
 - typescript
+
+- navigator.clipboard.writeText()
+
+- throttle, debounce
 
 ## 👀 간단 회고
