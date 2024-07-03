@@ -1,4 +1,4 @@
-# 📅 2024/07/01/일
+# 📅 2024/07/02/화
 
 ## 🚀 주간 목표
 
@@ -8,15 +8,17 @@ NextJS 유데미 강의 완강하기
 
 ## 💪🏻 오늘 한 일
 
-- [ ] 유데미 알고리즘 인강 - 재귀함수 문제 풀기
+- [x] 스터디 코딩 테스트 2문제 풀기
 
-- [x] 정처기 계산식 특강 / 데이터베이스 특강 완강
-
-- [x] frontend mentor - [복사하기 버튼, active 스타일, svgr, color theme, 반응형](https://github.com/frontend-study-project/FrontendMentor/commit/55ed235d5a838aa5246687175005c54d019ea831)
+- [x] frontend mentor - [메뉴 더보기 버튼, 로딩중](https://github.com/frontend-study-project/FrontendMentor/pull/1)
 
 ## 🫵🏻 내일 할 일
 
-- 스터디
+- 유데미 알고리즘 인강
+
+- 정처기 프로그램 특강
+
+- Next 인강 듣기
 
 ## 🔎 공부해볼 주제
 
@@ -34,9 +36,12 @@ NextJS 유데미 강의 완강하기
   ㄴ 새로고침하면 어떻게 동작할까
 
 - typescript
+  ㄴ ! : null 또는 undefined를 타입으로 받는 경우에 현재 가지고 있는 값이 null 또는 undefined이 아니라는 것을 직접 알려주는것
 
 - navigator.clipboard.writeText()
 
 - throttle, debounce
+
+- suspense
 
 ## 👀 간단 회고
