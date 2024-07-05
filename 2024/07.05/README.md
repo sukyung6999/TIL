@@ -1,22 +1,22 @@
-# 📅 2024/07/04/목
+# 📅 2024/07/05/목
 
 ## 🚀 주간 목표
 
-NextJS 유데미 강의 완강하기
+NextJS 유데미 강의 - 섹션 3 완강하기
 
-유데미 알고리즘 인강 최대한 많이 듣기
+정처기 실기 공부 D-23
 
 ## 💪🏻 오늘 한 일
 
-- [x] NextJS - [데이터베이스에 저장하기/seFormStatus 사용하기, 서버 측 유효성 검사, useActionState 사용해서 form 상태 관리](https://www.notion.so/Day08-98feffb8f7f74d8a9bc2dbbb337fa1b1)
+- [x] NextJS - [배포시 생겼던 에러 해결, 캐싱](https://cottony-slope-8c1.notion.site/Day09-c44f993c951f490a9718fd3256232529?pvs=4)
 
 ## 🫵🏻 내일 할 일
 
-- 유데미 알고리즘 인강
+- 정처기
+  ㄴ 수제비 퀴즈 공부하기
+  ㄴ 기출 1회 풀어보기
 
-- 정처기 프로그램 특강
-
-- Next 인강 듣기
+- FrontendMentor - countries 시작하기
 
 ## 🔎 공부해볼 주제
 
@@ -44,4 +44,4 @@ NextJS 유데미 강의 완강하기
 
 ## 👀 간단 회고
 
-에러에 막혀서 인강 진도를 못나갔다... 분하다
+에러 해결!!! 못할거 없다
