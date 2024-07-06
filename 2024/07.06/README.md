@@ -1,4 +1,4 @@
-# 📅 2024/07/05/금
+# 📅 2024/07/06/토
 
 ## 🚀 주간 목표
 
@@ -8,15 +8,18 @@ NextJS 유데미 강의 - 섹션 3 완강하기
 
 ## 💪🏻 오늘 한 일
 
-- [x] NextJS - [배포시 생겼던 에러 해결, 캐싱](https://cottony-slope-8c1.notion.site/Day09-c44f993c951f490a9718fd3256232529?pvs=4)
+- [x] 정처기 23년 3회 풀고 풀이 공부
+
+- [x] FrontendMentor - countries 시작하기 (라우터 설정까지)
+
+- nextjs 강의 듣기
 
 ## 🫵🏻 내일 할 일
 
 - 정처기
-  ㄴ 수제비 퀴즈 공부하기
-  ㄴ 기출 1회 풀어보기
+  ㄴ 정처기 23년 3회 공부 끝내기
 
-- FrontendMentor - countries 시작하기
+- FrontendMentor - countries router설정, 마크업 시작
 
 ## 🔎 공부해볼 주제
 
