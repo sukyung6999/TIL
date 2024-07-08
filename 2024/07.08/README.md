@@ -16,7 +16,7 @@ frontend mentor 마크업
 
 - [x] frontendMentor - coutries : main 마크업
 
-- [x] nextjs 강의 듣기 - [catch-all 라우트](https://www.notion.so/Day01-f1903eb52d634a8580af3a40cb84c0ca)
+- [x] nextjs 강의 듣기 - [catch-all 라우트](https://cottony-slope-8c1.notion.site/Next-js-ba5383b711774406976394f5955e871a?pvs=4)
 
 ## 🫵🏻 내일 할 일
 
