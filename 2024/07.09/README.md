@@ -1,4 +1,4 @@
-# 📅 2024/07/08/월
+# 📅 2024/07/09/화
 
 ## 🚀 주간 목표
 
@@ -8,26 +8,22 @@ pravel api 시도
 
 frontend mentor 마크업
 
-정처기 실기 공부 D-20
+정처기 실기 공부 D-19
 
 ## 💪🏻 오늘 한 일
 
-- [x] 정처기 23년 2회 공부
+- [x] 정처기 23년 1회 공부
 
-- [x] frontendMentor - coutries : main 마크업
+- [x] frontendMentor - coutries 스타일
 
-- [x] nextjs 강의 듣기 - [catch-all 라우트](https://cottony-slope-8c1.notion.site/Next-js-ba5383b711774406976394f5955e871a?pvs=4)
+- [x] nextjs 강의 듣기 - [라우트 핸들러](https://cottony-slope-8c1.notion.site/Day03_-802e383370a1491aa37efe3ad9a9bd37?pvs=4)
 
 ## 🫵🏻 내일 할 일
 
 - 정처기
-  ㄴ 정처기 23년 1회 공부하기
+  ㄴ 정처기 22년 3회 공부하기
 
 - next 강의
-
-- FrontendMentor - countries 마크업
-
-- Pravel - api 연결
 
 ## 🔎 공부해볼 주제
 
@@ -55,18 +51,6 @@ frontend mentor 마크업
 
 ## 👀 오늘의 궁금증
 
-- vite에서 tailwindcss 쓸때 vite.config.ts 파일에서 설정해줘야 함
-  ㄴ 내용 :
-  import { defineConfig } from 'vite';
-  import react from '@vitejs/plugin-react';
-  import tailwindcss from 'tailwindcss';
+## ✏️메모장
 
-// https://vitejs.dev/config/
-export default defineConfig({
-plugins: [react()],
-css: {
-postcss: {
-plugins: [tailwindcss()],
-},
-},
-});
+- frontendmentor countries : 비슷한 스타일 관리할 방법 찾기 / select 접근성 지키면서 커스텀하기 / tailwind calc 사용법 알아보기(리스트 아이템)
