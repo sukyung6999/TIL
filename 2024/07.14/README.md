@@ -8,11 +8,11 @@ pravel api 시도
 
 frontend mentor 마크업
 
-정처기 실기 공부 D-17
+정처기 실기 공부 D-15
 
 ## 💪🏻 오늘 한 일
 
-- [ ] 정처기 데이터베이스 다시 풀기
+- [x] 정처기 데이터베이스 다시 풀기
 
 - [x] nextjs 강의 듣기 - [캐싱](https://cottony-slope-8c1.notion.site/Day07_-19bdb823d8cf418f8ab7f8c64891ba3e?pvs=4), [최적화](https://cottony-slope-8c1.notion.site/Day08_NextJS-73bd867758934c09a5efbcdfc1454b8e?pvs=4)
 
