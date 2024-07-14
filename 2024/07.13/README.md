@@ -12,18 +12,15 @@ frontend mentor 마크업
 
 ## 💪🏻 오늘 한 일
 
-- [ ] 정처기 22년 3회, 자바 문제풀이, 마무리특강 1회
+- [x] 계산식 특강 다시 풀어보기
 
-- [x] pravel api 작업 시도 및 [리팩토링(병렬라우트)]()
-
-- [x] nextjs 강의 듣기 - [데이터 변형](https://cottony-slope-8c1.notion.site/Day05_-ed785d609e8d4727a27f318703e16ba4?pvs=4)
+- [x] nextjs 강의 듣기 - [데이터 재검증](https://cottony-slope-8c1.notion.site/Day06_-4873a37c15194f7581d9d4c060bd85cb?pvs=4)
 
 ## 🫵🏻 내일 할 일
 
 - 정처기
-  ㄴ 정처기 22년 2회 공부하기
 
-- next 강의
+- next 강의 섹션 10까지 다 듣기
 
 ## 🔎 공부해볼 주제
 
