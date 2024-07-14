@@ -8,7 +8,7 @@ pravel api 시도
 
 frontend mentor 마크업
 
-정처기 실기 공부 D-17
+정처기 실기 공부 D-16
 
 ## 💪🏻 오늘 한 일
 
