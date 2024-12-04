@@ -1,9 +1,9 @@
 const fs = require('fs');
 const [_, input] = fs.readFileSync("./text.txt").toString().trim().split("\n");
-const inputArr = input.trim().split(" ");
-let result = '';
+const inputArr = input.trim().split(" ").map(Number);
+const result = [];
 
 inputArr.forEach((num, idx) => {
-  result = result.slice(0, result.length - num) + (idx + 1) + result.slice(-num)
+  result.splice(result.length - num,0, idx + 1)
 })
-console.log(result.split('').join(' '));
+console.log(result);
